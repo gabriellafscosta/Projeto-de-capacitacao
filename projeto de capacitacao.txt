@@ -5,3 +5,4 @@ git commit - ele mostra como está o andamento do projeto e adiciona rótulos na
 git push - ele adiciona o código no repositório remoto.
 git pull - ele serve pra monitorar as versões do projeto.
 git pull request - isso serve para o código ser checado por outras pessoas.
+git clone - é usado pra criar uma cópia de um repositório.
