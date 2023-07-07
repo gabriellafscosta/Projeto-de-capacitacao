@@ -1,0 +1,2 @@
+
+git add - ele adiciona uma alteração no código.
