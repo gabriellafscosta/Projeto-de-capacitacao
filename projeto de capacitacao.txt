@@ -1,2 +1,3 @@
 
 git add - ele adiciona uma alteração no código.
+git status - ele mostra o que foi e não foi alterado no código na máquina.
