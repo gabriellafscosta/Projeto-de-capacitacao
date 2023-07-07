@@ -3,3 +3,4 @@ git add - ele adiciona uma alteração no código.
 git status - ele mostra o que foi e não foi alterado no código na máquina.
 git commit - ele mostra como está o andamento do projeto e adiciona rótulos nas alterações.
 git push - ele adiciona o código no repositório remoto.
+git pull - ele serve pra monitorar as versões do projeto.
